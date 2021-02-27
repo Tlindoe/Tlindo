@@ -1,2 +1,3 @@
 # Tlindo
-https://GitHub.com/starific17/Social Phish
+git clone
+https://github.com/starific17/SocialPhish
